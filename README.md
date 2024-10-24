@@ -1,16 +1,30 @@
-## Hi there 👋
+![Web Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/451086552_122114894162361619_1659035339178166965_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEEAlqGKRSkjF2FtnSa1XnodRHqLPz1tBZ1Eeos_PW0FvS55khcxPMO0mVz6LOWn2mCFzHMg4x2sUb7y6CI_NFO&_nc_ohc=kQE5X8izyd8Q7kNvgE5fjKk&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=AHD31AZ-wOWv0zUG-ZNXWqP&oh=00_AYCGzRcKDuf1QvQaTuDxNM4xDuDF6PIYmDlkY9USyQIGAg&oe=67209849)
 
 
-**zidanriz999/zidanriz999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Rashidul Islam Zidan
+#### Web Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a Computer Science and Engineering (CSE) student with a passion for coding, problem-solving, and building efficient software solutions, programming. I enjoy learning about new technologies and applying my skills in real-world projects.
+
+Skills: C/C++
+
+- 🔭 I’m currently working on Youtube&Alterity software company  
+- 🌱 I’m currently learning C++ 
+- 👯 I’m looking to collaborate on GitHub 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zidanriz999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zidanriz999/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zidanriz999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zidanriz999/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zidanriz999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/zidanriz999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/d/1c2JgyAMxBguJx8iFTHL-lzoSLdzBPp_s/p/1Nwt-sWp0KkOVWZ5iImYjd5Zn9GRXvnFd/edit)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zidanriz999)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanriz999)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanriz999&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/zidanriz999)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=zidanriz999)  
 
