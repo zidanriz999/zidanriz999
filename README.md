@@ -1,5 +1,4 @@
-![Web Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/451086552_122114894162361619_1659035339178166965_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEEAlqGKRSkjF2FtnSa1XnodRHqLPz1tBZ1Eeos_PW0FvS55khcxPMO0mVz6LOWn2mCFzHMg4x2sUb7y6CI_NFO&_nc_ohc=kQE5X8izyd8Q7kNvgE5fjKk&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=AHD31AZ-wOWv0zUG-ZNXWqP&oh=00_AYCGzRcKDuf1QvQaTuDxNM4xDuDF6PIYmDlkY9USyQIGAg&oe=67209849)
-
+![Web Developer]
 
 ### Hi there 👋, I'm Rashidul Islam Zidan
 #### Web Developer
