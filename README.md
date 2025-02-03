@@ -1,8 +1,7 @@
 ![Web Developer ](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/469011773_122144324912361619_5498309154397846318_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFeLUjOQdH2wUQ9MHhsIQDHW2MhR6FZNe9bYyFHoVk17xRbsPEIPCfnF3C-xx0X5u98h7kJX5-M92y41Z9SxfoP&_nc_ohc=x7CGn1Lbbm4Q7kNvgHotUZG&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=AqXF8B91h9AiSIZMBNaHWA-&oh=00_AYBibuOOhKD495F6wwFFQRtwRotsShjVpMGZ8xrbb7ddaA&oe=67A6DB1B)
 
-# Hi there 👋It's me Rashidul Islam ZIDAN
-### Hi there 👋, Hi!  I am Rashidul Islam ZIDAN
-#### Web Developer 
+# Hi there 👋It's me Rashidul Islam ZIDAN 😎😎
+## Software Engineer 👨🏻‍💻👨🏻‍💻👨🏻‍💻 
 
 
 Passionate CSE professional with expertise in programming (Python, Java, C++), web development, and AI/ML. Skilled in problem-solving, database management, and cloud computing. Always eager to learn and innovate in the tech space. 🚀
